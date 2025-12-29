@@ -1,0 +1,19 @@
+@define-color fg rgb(205, 214, 244);          /* text */
+@define-color fg_alt rgb(186, 194, 222);     /* subtext */
+@define-color fg_soft rgba(205, 214, 244, 0.6);
+
+@define-color bg rgba(30, 30, 46, 0.9);      /* base */
+@define-color bg_alt transparent;
+@define-color bg_soft rgba(49, 50, 68, 0.6); /* surface0 */
+
+@define-color tooltip_bg rgb(24, 24, 37);    /* mantle */
+@define-color hover rgba(137, 180, 250, 0.12); /* blue hover */
+
+@define-color workspace_inactive rgba(186, 194, 222, 0.4);
+@define-color workspace_active rgba(137, 180, 250, 0.35);
+@define-color workspace_hover rgba(137, 180, 250, 0.18);
+
+@define-color urgent rgb(243, 139, 168);     /* red */
+@define-color active rgb(137, 180, 250);     /* blue */
+@define-color good rgb(166, 227, 161);       /* green */
+
