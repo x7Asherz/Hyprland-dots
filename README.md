@@ -16,3 +16,6 @@ kitty -terminal
 
 thunar -file manager
 
+qt5ct & qt6ct 
+
+gtk3 & gtk4
