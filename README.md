@@ -11,3 +11,8 @@
 [rofi](https://github.com/davatorium/rofi) | with [catppuccin-rofi](https://github.com/catppuccin/rofi) theme
 
 [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+
+kitty -terminal
+
+thunar -file manager
+
